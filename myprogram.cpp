@@ -1,5 +1,5 @@
-#include "Train.cpp"
-#include "Terminal.cpp"
+#include "Train.h"
+#include "Terminal.h"
 #include <iostream>
 #include <string>
 #include <thread>
